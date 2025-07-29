@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Khalil Ghanem</h1>
+<h1 align="center">Hi 👋, It's Khalil Ghanem</h1>
 <h3 align="center">AI student & Full stack developer</h3>
 
 - 📫 How to reach me **khalil.ghanem.dev@gmail.com**
