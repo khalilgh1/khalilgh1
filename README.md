@@ -1,6 +1,7 @@
 <h1 align="center">Hi There 👋, It's Khalil Ghanem</h1>
 <h3 align="center">AI student & Full stack developer</h3>
 
+- Portfolio link: **[khalil.ghanem.dev@gmail.com](https://khalilghanem.me/)**
 - 📫 How to reach me **khalil.ghanem.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
